@@ -37,3 +37,25 @@
 
 <img  src="https://github.com/4bnerF3lipe/4bnerF3lipe/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<div align="center" >
+  
+  ## Meu Aprendizado:</div>
+
+<table style="border: none; width:100%;" align="center"  >
+  <tr>
+  <td valign="top"  align="center" >
+
+<img height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<p >
+        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4bnerF3lipe&repo=CursoCSharpBasico-ao-Avancado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
+  </td>
+  </tr>
+</table>
+
+
+
