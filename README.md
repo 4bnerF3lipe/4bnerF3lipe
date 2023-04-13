@@ -51,7 +51,7 @@
 <img height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <p >
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4bnerF3lipe&repo=CursoCSharpBasico-ao-Avancado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4bnerF3lipe&repo=CursoCSharpBasico-ao-Avancado&theme=dark)](https://github.com/4bnerF3lipe/CursoCSharpBasico-ao-Avancado)
     </p>
   </td>
   </tr>
