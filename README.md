@@ -57,5 +57,16 @@
   </tr>
 </table>
 
+<table style="border: none; width:100%;" align="center"  >
+  <tr>
+  <td valign="top"  align="center" >
 
+<img height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<p >
+        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4bnerF3lipe&repo=CursoFlutter-Jamiltondamasceno-Udemy&theme=dark)](https://github.com/4bnerF3lipe/CursoFlutter-Jamiltondamasceno-Udemy)
+    </p>
+  </td>
+  </tr>
+</table>
 
